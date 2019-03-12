@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    list-style: none;
+}
+#container {
+    width: 100%;
+    overflow-x: hidden;
+}
+.container-wrapper {
+    width: 5000px;
+}
+.container-wrapper li {
+    float: left;
+}
+.container-wrapper li img {
+    width: 100%;
+}
